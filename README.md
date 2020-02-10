@@ -56,7 +56,7 @@ You have to visit the points in the same order as they appear in the array.
 
 Example 1:
 
-![alt text](https://github.com/bodagovsky/algorythms/blob/master/points.png)
+![alt text](https://github.com/bodagovsky/algorythms/blob/master/images/points.png)
 
 Input: points = [[1,1],[3,4],[-1,0]]
 Output: 7
