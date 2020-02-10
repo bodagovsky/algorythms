@@ -56,7 +56,7 @@ You have to visit the points in the same order as they appear in the array.
 
 Example 1:
 
-
+![alt text]()
 
 Input: points = [[1,1],[3,4],[-1,0]]
 Output: 7
