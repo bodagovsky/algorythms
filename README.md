@@ -46,6 +46,7 @@ Constraints:
 1 <= n <= 60
 
 2.Fastest Path
+
 On a plane there are n points with integer coordinates points[i] = [xi, yi]. Your task is to find the minimum time in seconds to visit all points.
 
 You can move according to the next rules:
